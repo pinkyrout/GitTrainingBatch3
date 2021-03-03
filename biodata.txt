@@ -5,3 +5,8 @@ PVG COET
 Hobbies:
 1. Table Tennis, Cricket
 2. Coding, Swimming
+
+Name: Sparsh Arora
+Birth Place: Delhi
+Education: Computer Engineering, SIES
+Hobbies: Chess, Reading, Coding
