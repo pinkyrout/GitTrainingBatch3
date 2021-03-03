@@ -1,7 +1,7 @@
-Name: Pinky Rout
-Birth Place: Roorkee
-Education: BTech in Computer Engineering
-Army Institute of Technology.
+Name: Kunal Bhangale
+Birth Place: Jalgaon
+Education: BTech in Electrical Engineering
+PVG COET
 Hobbies:
-1. Volley Ball, Badminton
-2. Cooking, Gardening
+1. Table Tennis, Cricket
+2. Coding, Swimming
