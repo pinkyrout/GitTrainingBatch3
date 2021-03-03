@@ -28,3 +28,7 @@ Birth Place:Pune
 Education:Computer Engineering
 Hobbies:Playing cricket
 
+Name: Kunal Bhangale
+Birth Place: Jalgaon
+Education: Electrical Engineering
+Hobbies: Playing Table Tennis, Cricket, Swimming
