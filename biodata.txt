@@ -12,3 +12,8 @@ Name: Sparsh Arora
 Birth Place: Delhi
 Education: Computer Engineering, SIES
 Hobbies: Chess, reading
+
+Name: Syed Ali
+Birth Place : Aurangabad
+Education: Btech in Electronics
+hobbies: chess. 
