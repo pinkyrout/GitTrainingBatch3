@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name: Chinmay Patil
 Birth Place: Pune
 Education: BE in Computer Engineering
