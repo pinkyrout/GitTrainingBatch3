@@ -17,3 +17,9 @@ Name: Syed Ali
 Birth Place : Aurangabad
 Education: Btech in Electronics
 hobbies: chess. 
+
+Name:Kiran Ghodake
+Birth Place: sangli
+Education: mech engg,PG-DAC
+Hobbies:cooking ,playing cricket
+
