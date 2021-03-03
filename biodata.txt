@@ -23,3 +23,8 @@ Birth Place: sangli
 Education: mech engg,PG-DAC
 Hobbies:cooking ,playing cricket
 
+Name:Chinmay Patil
+Birth Place:Pune
+Education:Computer Engineering
+Hobbies:Playing cricket
+
